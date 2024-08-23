@@ -1,0 +1,51 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Jinwoo"
+  # repo-url: https://github.com/gbruer15/gbruer15.github.io
+  # repo-actions: [issue]
+
+  page-footer:
+    left: "&copy; Copyright 2024, Jinwoo Go"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    collapse-level: 1
+    search: true
+    back-to-top-navigation: true
+    contents:
+      - text: "About me"
+        href: index.qmd
+
+      # - text: "Resumé"
+      #   href: resume/index.qmd
+
+      # - text: "Projects"
+      #   href: projects/index.qmd
+
+      # - text: "CV"
+      #   href: cv/index.qmd
+
+    tools:
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/jinwoo-go-6b1485199/
+      - icon: github
+        text: Github
+        href: https://github.com/JinwooGo
+      # - icon: gitlab
+      #   text: Gitlab
+      #   href: https://gitlab.com/gbruer
+  reader-mode: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
