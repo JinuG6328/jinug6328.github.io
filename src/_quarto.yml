@@ -4,8 +4,6 @@ project:
 website:
   page-navigation: true
   title: "Jinwoo"
-  # repo-url: https://github.com/gbruer15/gbruer15.github.io
-  # repo-actions: [issue]
 
   page-footer:
     left: "&copy; Copyright 2024, Jinwoo Go"
@@ -38,9 +36,7 @@ website:
       - icon: github
         text: Github
         href: https://github.com/JinwooGo
-      # - icon: gitlab
-      #   text: Gitlab
-      #   href: https://gitlab.com/gbruer
+
   reader-mode: true
 
 format:
