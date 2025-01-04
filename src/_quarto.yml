@@ -4,11 +4,9 @@ project:
 website:
   page-navigation: true
   title: "Jinwoo"
-
   page-footer:
     left: "&copy; Copyright 2025, Jinwoo Go"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-
   sidebar:
     pinned: true
     align: center
@@ -19,10 +17,8 @@ website:
     contents:
       - text: "About me"
         href: index.qmd
-
       - text: "Research"
         href: research/index.qmd
-
     tools:
       - icon: linkedin
         text: LinkedIn
@@ -31,11 +27,10 @@ website:
         text: Github
         href: https://github.com/JinuG6328
 
-  reader-mode: true
+reader-mode: true
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
