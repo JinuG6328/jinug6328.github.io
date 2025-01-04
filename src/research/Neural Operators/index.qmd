@@ -5,7 +5,7 @@ categories: [scientific machine learning, neural operators]
 
 Neural operators have emerged as a powerful tool for learning mappings between function spaces, with direct applications to PDEs. 
 These operators provide an elegant solution to reduce the computational burden of infinite/high-dimensional PDE solvers. 
-Through their application in Bayesian Optimal Experimental Design (BOED), we've developed two approaches:
+Through their application in BOED, we've developed two approaches:
 
 ## DINO (Derivative-informed Neural Operator)
 ![DINO architecture schematic diagram](dino.png)
