@@ -17,5 +17,5 @@ The accompanying visualization demonstrates how changes in the prior distributio
 
 Our framework integrates seamlessly with existing convex optimization methods, providing a practical solution for real-world experimental design scenarios where prior knowledge may be incomplete or uncertain.
 
-**Publication**: Go, J. and Isaac, T. (2022). [Robust Expected Information Gain for Optimal Bayesian Experimental Design
-Using Ambiguity Sets](https://proceedings.mlr.press/v180/go22a/go22a.pdf). *Proceedings of the 38th International Conference on Uncertainty in Artificial Intelligence
+**Publication**: Go, J. and Isaac, T. (2022). **[Robust Expected Information Gain for Optimal Bayesian Experimental Design
+Using Ambiguity Sets](https://proceedings.mlr.press/v180/go22a/go22a.pdf)**. *Proceedings of the 38th International Conference on Uncertainty in Artificial Intelligence
