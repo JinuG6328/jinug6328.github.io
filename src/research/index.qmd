@@ -9,7 +9,7 @@ listing:
     type: table
     fields: [image, title, description]
     max-description-length: 500
-    image-align: left
+    image-align: center
     image-height: 200px
     sort-ui: false
     filter-ui: false
