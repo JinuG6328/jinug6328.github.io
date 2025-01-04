@@ -1,0 +1,11 @@
+---
+title: "Risk-averse expected information gain (REIG)"
+categories: [decision making under uncertainty, convex optimization]
+image: "reig.png"
+---
+
+This project addresses a critical challenge in BOED: the sensitivity of experimental outcomes to misspecified prior distributions. While traditional BOED assumes accurate prior knowledge, real-world applications often involve uncertain or imperfect initial distributions.
+We introduce Risk-averse Expected Information Gain (REIG), a novel approach that accounts for prior uncertainty while maintaining computational efficiency. By leveraging convex optimization techniques, our method:
+
+Our framework integrates seamlessly with existing convex optimization methods, providing a practical solution for real-world experimental design scenarios where prior knowledge may be incomplete or uncertain.
+CITE PAPER

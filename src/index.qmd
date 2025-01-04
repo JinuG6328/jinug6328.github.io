@@ -1,4 +1,32 @@
 ---
 title: "Jinwoo Go"
+image: profile.png
+about:
+  # id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
 
+    - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/jinwoo-go-6b1485199/
+      - icon: github
+        text: Github
+        href: https://github.com/JinuG6328
+
+repo-actions: true
 ---
+
+<!-- ::: {#hero-heading} -->
+
+I am a researcher at Brookhaven National Laboratory.
+
+I like to think, and discuss the ideas.
+
+## Interests
+
+When I have time, I'd like to swim, amd kickboxing. 
+
+<!-- ::: -->
+
+

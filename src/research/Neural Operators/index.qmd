@@ -1,0 +1,15 @@
+---
+title: "Bayesian Optimal Experimental Design with Neural Operators"
+categories: [scientific machine learning, neural oeprstors]
+---
+
+Neural operators learn mappings between function spaces with direct applications to PDEs. These operators provide an elegant solution to reduce the computational burden of infinite/high-dimensional PDE solvers. Through their application in Bayesian Optimal Experimental Design (BOED), we've developed two innovative approaches:
+DINO (Derivative-informed Neural Operator)
+We've established theoretical foundations for incorporating derivative-informed neural operators into the BOED framework. This approach replaces traditional time-independent PDE solvers with efficient surrogate models, dramatically reducing computational overhead while maintaining accuracy. By leveraging derivative information, DINO achieves superior generalization and stability compared to conventional neural operator architectures.
+CITE PAPER https://arxiv.org/pdf/2312.14810
+![DINO scheme](dino.png)
+LANO (Latent Attention Neural Operator)
+Building on our theoretical work, we've implemented sequential experimental designs using LANO. This methodology has been extensively tested and validated using the tumor growth model. The latent attention mechanism enables LANO to efficiently handle long-range dependencies while maintaining computational efficiency. Through our experiments, we demonstrate how LANO's architecture particularly excels at capturing complex dynamics in biological systems.
+CITE PAPER https://arxiv.org/pdf/2409.09141
+![LANO scheme](lano_1.png)
+![LANO scheme](lano_2.png)

@@ -1,0 +1,11 @@
+---
+title: "Bayesian Optimal Experimental Design"
+categories: [machine learning, Bayesian optimal experimental design, decision making under uncertainty]
+image: "BOED.jpg"
+---
+
+In research settings where experiments are expensive, time-consuming, or potentially hazardous, it's crucial to optimize experimental design to maximize information gain. This research advances Bayesian optimal experimental design (BOED) methodology to address these challenges.
+
+Traditional approaches to BOED include leveraging Gaussian approximations of posterior distributions to evaluate uncertainty reduction through posterior covariance matrices. Another method involves calculating the expected Kullback-Leibler (KL) divergence between posterior and prior distributions. However, these approaches often involve significant computational overhead.
+
+My research focuses on improving the efficiency of BOED by developing novel methods to reduce computational complexity and better handle prior uncertainty. By incorporating neural operators, we're exploring new ways to make these optimization techniques more practical and accessible for real-world applications.

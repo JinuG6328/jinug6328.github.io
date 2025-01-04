@@ -1,0 +1,23 @@
+---
+title: "Research"
+description: |
+  These are research I have worked on.
+listing:
+  - id: projects
+    max-description-length: 500
+    image-height: 150px
+    fields: [image, title, description]
+    contents: 
+      - .
+    type: table
+    sort-ui: false
+    filter-ui: false
+    table-striped: true
+    table-hover: true
+    categories: true
+---
+
+
+::: {#research}
+:::
+
