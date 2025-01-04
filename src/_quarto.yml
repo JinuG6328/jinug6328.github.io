@@ -13,18 +13,19 @@ website:
     style: "docked"
     search: true
   back-to-top-navigation: true
-  contents:
-    - text: "About me"
-      href: index.qmd
-    - text: "Research"
-      href: research/index.qmd
-  tools:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/jinwoo-go-6b1485199/
-    - icon: github
-      text: Github
-      href: https://github.com/JinuG6328
+  navbar:
+    left:
+      - text: "About me"
+        href: index.qmd
+      - text: "Research"
+        href: research/index.qmd
+    right:
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/jinwoo-go-6b1485199/
+      - icon: github
+        text: Github
+        href: https://github.com/JinuG6328
   reader-mode: true
 
 format:
