@@ -1,6 +1,6 @@
 ---
 title: "Jinwoo Go"
-image: profile.png
+image: profile.jgg
 about:
   # id: hero-heading
   template: trestles
@@ -21,16 +21,12 @@ repo-actions: true
 
 I am a researcher at Brookhaven National Laboratory.
 
-I like to think, and discuss the ideas.
 
 ## Education
 PhD May 2018 - Dec 2024, Computational Science and Engineering, Georgia institute of technology, Atlanta, US 
 MS Aug 2016 - May 2018, Computational Science and Engineering, Georgia institute of technology, Atlanta, US 
 BS Mar 2009 - Aug 2016, Energy resources Engineering & Computational Science, Seoul National University, Seoul, South Korea
 
-## Interests
-
-When I have time, I'd like to swim, practice kickboxing and eat delicious food. 
 
 <!-- ::: -->
 
