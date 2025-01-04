@@ -27,7 +27,7 @@ PhD May 2018 - Dec 2024, Computational Science and Engineering, Georgia institut
 MS Aug 2016 - May 2018, Computational Science and Engineering, Georgia institute of technology, Atlanta, US 
 BS Mar 2009 - Aug 2016, Energy resources Engineering & Computational Science, Seoul National University, Seoul, South Korea
 
-Personal Interests
+## Personal Interests
 Outside of research, I enjoy staying active through swimming and kickboxing. 
 I'm also passionate about exploring different cuisines and discovering new restaurants.
 
