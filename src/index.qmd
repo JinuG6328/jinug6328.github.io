@@ -6,31 +6,20 @@ about:
   template: trestles
   image-shape: round
   links:
-
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jinwoo-go-6b1485199/
     - icon: github
       text: Github
       href: https://github.com/JinuG6328
-
 repo-actions: true
 ---
-
 <!-- ::: {#hero-heading} -->
-
 I am a researcher at Brookhaven National Laboratory, where I apply computational methods to solve scientific problems.
-
-
 ## Education
 PhD May 2018 - Dec 2024, Computational Science and Engineering, Georgia institute of technology, Atlanta, US 
 MS Aug 2016 - May 2018, Computational Science and Engineering, Georgia institute of technology, Atlanta, US 
 BS Mar 2009 - Aug 2016, Energy resources Engineering & Computational Science, Seoul National University, Seoul, South Korea
-
 ## Personal Interests
 Outside of research, I enjoy staying active through swimming and kickboxing. 
 I'm also passionate about exploring different cuisines and discovering new restaurants.
-
-<!-- ::: -->
-
-
