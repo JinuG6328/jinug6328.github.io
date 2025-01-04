@@ -4,10 +4,31 @@ categories: [machine learning, decision making under uncertainty]
 image: "BOED.png"
 ---
 
-In research settings where experiments are expensive, time-consuming, or potentially hazardous, it's crucial to optimize experimental design to maximize information gain. This research advances Bayesian optimal experimental design (BOED) methodology to address these challenges.
+In research settings where experiments are expensive, time-consuming, or potentially hazardous, 
+it's crucial to optimize experimental design to maximize information gain. 
+This research advances Bayesian optimal experimental design (BOED) methodology to address these challenges.
 
-Traditional approaches to BOED include leveraging Gaussian approximations of posterior distributions to evaluate uncertainty reduction through posterior covariance matrices. Another method involves calculating the expected Kullback-Leibler (KL) divergence between posterior and prior distributions. However, these approaches often involve significant computational overhead.
+## Traditional Approaches
 
-My research focuses on improving the efficiency of BOED by developing novel methods to reduce computational complexity and better handle prior uncertainty. By incorporating neural operators, we're exploring new ways to make these optimization techniques more practical and accessible for real-world applications.
+BOED has historically employed several key methodologies:
 
-![BOED overview](BOED.png)
+1. **Gaussian Approximation Method**  
+   This approach leverages Gaussian approximations of posterior distributions to evaluate uncertainty reduction through posterior covariance matrices.
+
+2. **KL Divergence Method**  
+   This method involves calculating the expected Kullback-Leibler (KL) divergence between posterior and prior distributions to quantify information gain.
+
+While these approaches are theoretically sound, they often involve significant computational overhead, limiting their practical application.
+
+![Schematic overview of BOED process: The diagram illustrates how BOED selects optimal experimental conditions (experiment_1) to maximize information gain for model parameter estimation](BOED.png)
+
+## Research Focus
+
+My research focuses on improving the efficiency and applicability of BOED through several key innovations:
+
+- Developing novel methods to reduce computational complexity
+- Creating better approaches for handling prior uncertainty
+- Incorporating neural operators for more efficient computation
+- Making optimization techniques more practical for real-world applications
+
+This work bridges the gap between theoretical BOED frameworks and practical experimental design challenges, making these powerful optimization techniques more accessible to researchers across various fields.
