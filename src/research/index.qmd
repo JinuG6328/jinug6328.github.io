@@ -4,24 +4,19 @@ description: |
   These are research I have worked on.
 listing:
   - id: projects
-    max-description-length: 500
-    image-height: 200px
-    image-align: left
-    fields: [image, title, description]
     contents: 
-      - projects/boed.qmd
-      - projects/risk-averse-boed.qmd
-      - projects/neural-operators.qmd
+      - "*/index.qmd"
     type: table
+    fields: [image, title, description]
+    max-description-length: 500
+    image-align: left
+    image-height: 200px
     sort-ui: false
     filter-ui: false
     table-striped: true
     table-hover: true
     categories: true
-    table-width: 100%
-    image-width: 300px
 ---
 
 ::: {#research}
 :::
-
