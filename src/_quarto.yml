@@ -11,22 +11,23 @@ website:
     pinned: true
     align: center
     style: "docked"
+    collapse-level: 1
     search: true
-  back-to-top-navigation: true
-  navbar:
-    left:
+    back-to-top-navigation: true
+    contents:
       - text: "About me"
         href: index.qmd
       - text: "Research"
         href: research/index.qmd
-    right:
+    tools:
       - icon: linkedin
         text: LinkedIn
         href: https://www.linkedin.com/in/jinwoo-go-6b1485199/
       - icon: github
         text: Github
         href: https://github.com/JinuG6328
-  reader-mode: true
+
+reader-mode: true
 
 format:
   html:
