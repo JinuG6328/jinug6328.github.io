@@ -30,7 +30,3 @@ Building on the success of DINO, we developed LANO to address the challenges of 
 The theoretical framework and experimental results are extensively documented in our paper:  
 **[Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator](https://arxiv.org/pdf/2409.09141)**
 
-Through these innovations in neural operator architectures, we've significantly advanced the field of BOED. 
-Both DINO and LANO demonstrate substantial improvements in computational efficiency and model accuracy, making them valuable tools for real-world applications. 
-For detailed methodologies, theoretical proofs, and comprehensive experimental results, please refer to our papers.
-

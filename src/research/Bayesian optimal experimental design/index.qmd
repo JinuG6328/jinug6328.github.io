@@ -8,9 +8,9 @@ In research settings where experiments are expensive, time-consuming, or potenti
 it's crucial to optimize experimental design to maximize information gain. 
 This research advances Bayesian optimal experimental design (BOED) methodology to address these challenges.
 
-## Traditional Approaches
+##  Approaches
 
-BOED has historically employed several key methodologies:
+BOED has employed several key methodologies:
 
 1. **Gaussian Approximation Method**  
    This approach leverages Gaussian approximations of posterior distributions to evaluate uncertainty reduction through posterior covariance matrices.
@@ -20,15 +20,5 @@ BOED has historically employed several key methodologies:
 
 While these approaches are theoretically sound, they often involve significant computational overhead, limiting their practical application.
 
-![Schematic overview of BOED process: The diagram illustrates how BOED selects optimal experimental conditions (experiment_1) to maximize information gain for model parameter estimation](BOED.png)
+![Schematic overview of BOED process: The diagram illustrates how BOED selects optimal experiment(experiment_1) to maximize information for model parameter estimation](BOED.png)
 
-## Research Focus
-
-My research focuses on improving the efficiency and applicability of BOED through several key innovations:
-
-- Developing novel methods to reduce computational complexity
-- Creating better approaches for handling prior uncertainty
-- Incorporating neural operators for more efficient computation
-- Making optimization techniques more practical for real-world applications
-
-This work bridges the gap between theoretical BOED frameworks and practical experimental design challenges, making these powerful optimization techniques more accessible to researchers across various fields.
