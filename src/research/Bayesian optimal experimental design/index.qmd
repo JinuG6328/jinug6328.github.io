@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Optimal Experimental Design"
-categories: [machine learning, Bayesian optimal experimental design, decision making under uncertainty]
-image: "BOED.jpg"
+categories: [machine learning, decision making under uncertainty]
+image: "BOED.png"
 ---
 
 In research settings where experiments are expensive, time-consuming, or potentially hazardous, it's crucial to optimize experimental design to maximize information gain. This research advances Bayesian optimal experimental design (BOED) methodology to address these challenges.
