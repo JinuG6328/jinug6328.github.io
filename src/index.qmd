@@ -1,6 +1,6 @@
 ---
 title: "Jinwoo Go"
-image: profile.jgg
+image: profile.jpg
 about:
   # id: hero-heading
   template: trestles
