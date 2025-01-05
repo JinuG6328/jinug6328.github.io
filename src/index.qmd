@@ -29,13 +29,13 @@ BS Mar 2009 - Aug 2016, Energy resources Engineering & Computational Science, Se
 
 
 ## Professional Experience
-**Research Intern** | Schlumberger-Doll Research, Cambridge, MA | May 2022 - Aug 2022
-- Engineered an innovative automated framework integrating machine learning predictions with uncertainty quantification and actionable model recommendations
-- Developed a novel weighted out-of-distribution (WOOD) indicator by combining Gaussian parameterization with feature importance analysis using PCA and SHAP methodologies
+**Research Intern** | Schlumberger-Doll Research, Cambridge, MA | May 2022 - Aug 2022 <br>
+- Engineered an innovative automated framework integrating machine learning predictions with uncertainty quantification and actionable model recommendations. <br>
+- Developed a novel weighted out-of-distribution (WOOD) indicator by combining Gaussian parameterization with feature importance analysis using PCA and SHAP methodologies. <br>
 
-**Research Intern** | Schlumberger-Doll Research, Cambridge, MA (Remote) | May 2021 - Aug 2021
-- Pioneered a cement evaluation model using transformer architecture, leveraging synthetic data for pre-training and real-world data for fine-tuning to maintain physical accuracy
-- Achieved significant performance improvements, reducing regression error mean from 0.13 to 0.07 and standard deviation from 0.32 to 0.25
+**Research Intern** | Schlumberger-Doll Research, Cambridge, MA (Remote) | May 2021 - Aug 2021 <br>
+- Pioneered a cement evaluation model using transformer architecture, leveraging synthetic data for pre-training and real-world data for fine-tuning to maintain physical accuracy. <br>
+- Achieved significant performance improvements, reducing regression error mean from 0.13 to 0.07 and standard deviation from 0.32 to 0.25. <br>
 
 
 ## Personal Interests
