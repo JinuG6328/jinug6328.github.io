@@ -23,9 +23,9 @@ I am a researcher at Brookhaven National Laboratory, where I apply computational
 
 
 ## Education
-PhD May 2018 - Dec 2024, Computational Science and Engineering, Georgia institute of technology, Atlanta, US <br>
-MS Aug 2016 - May 2018, Computational Science and Engineering, Georgia institute of technology, Atlanta, US <br>
-BS Mar 2009 - Aug 2016, Energy resources Engineering & Computational Science, Seoul National University, Seoul, South Korea
+PhD,  May 2018 - Dec 2024, Computational Science and Engineering, Georgia institute of technology, Atlanta, US <br>
+MS,  Aug 2016 - May 2018, Computational Science and Engineering, Georgia institute of technology, Atlanta, US <br>
+BS,  Mar 2009 - Aug 2016, Energy resources Engineering & Computational Science, Seoul National University, Seoul, South Korea
 
 
 ## Professional Experience
