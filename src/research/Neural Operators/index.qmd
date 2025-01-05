@@ -25,7 +25,6 @@ Our comprehensive analysis and theoretical foundations are detailed in our paper
 Building on the success of DINO, we developed LANO to address the challenges of sequential Bayesian optimal experimental design. This architecture introduces several innovative features: <br>
 - Advanced latent attention mechanism for handling complex temporal dependencies <br>
 - Efficient optimization methods for sequential experiments <br>
-- Specialized components for capturing biological system dynamics <br>
 
 The theoretical framework and experimental results are extensively documented in our paper:  
 **[Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator](https://arxiv.org/pdf/2409.09141)**
