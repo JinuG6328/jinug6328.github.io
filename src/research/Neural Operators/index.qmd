@@ -11,9 +11,9 @@ Through their application in BOED, we've developed two approaches:
 ![DINO architecture schematic diagram](dino.png)
 
 DINO incorporates derivative information. We've trained a model that achieves superior accuracy in both parameter-to-observable maps and their corresponding Jacobians. 
-Key features include:
-- Efficient surrogate modeling for time-independent PDEs
-- Dramatically reduced computational costs while maintaining high accuracy
+Key features include:<br>
+- Efficient surrogate modeling for time-independent PDEs <br>
+- Dramatically reduced computational costs while maintaining high accuracy <br>
 
 Our comprehensive analysis and theoretical foundations are detailed in our paper:  
 **[Accurate, scalable, and efficient Bayesian optimal experimental design with derivative-informed neural operators](https://arxiv.org/pdf/2312.14810)**
@@ -22,10 +22,10 @@ Our comprehensive analysis and theoretical foundations are detailed in our paper
 ![LANO architecture overview](lano_1.png)
 ![LANO detailed architecture](lano_2.png)
 
-Building on the success of DINO, we developed LANO to address the challenges of sequential Bayesian optimal experimental design. This architecture introduces several innovative features:
-- Advanced latent attention mechanism for handling complex temporal dependencies
-- Efficient optimization methods for sequential experiments
-- Specialized components for capturing biological system dynamics
+Building on the success of DINO, we developed LANO to address the challenges of sequential Bayesian optimal experimental design. This architecture introduces several innovative features: <br>
+- Advanced latent attention mechanism for handling complex temporal dependencies <br>
+- Efficient optimization methods for sequential experiments <br>
+- Specialized components for capturing biological system dynamics <br>
 
 The theoretical framework and experimental results are extensively documented in our paper:  
 **[Sequential infinite-dimensional Bayesian optimal experimental design with derivative-informed latent attention neural operator](https://arxiv.org/pdf/2409.09141)**
