@@ -28,6 +28,16 @@ MS Aug 2016 - May 2018, Computational Science and Engineering, Georgia institute
 BS Mar 2009 - Aug 2016, Energy resources Engineering & Computational Science, Seoul National University, Seoul, South Korea
 
 
+## Professional Experience
+**Research Intern** | Schlumberger-Doll Research, Cambridge, MA | May 2022 - Aug 2022
+- Engineered an innovative automated framework integrating machine learning predictions with uncertainty quantification and actionable model recommendations
+- Developed a novel weighted out-of-distribution (WOOD) indicator by combining Gaussian parameterization with feature importance analysis using PCA and SHAP methodologies
+
+**Research Intern** | Schlumberger-Doll Research, Cambridge, MA (Remote) | May 2021 - Aug 2021
+- Pioneered a cement evaluation model using transformer architecture, leveraging synthetic data for pre-training and real-world data for fine-tuning to maintain physical accuracy
+- Achieved significant performance improvements, reducing regression error mean from 0.13 to 0.07 and standard deviation from 0.32 to 0.25
+
+
 ## Personal Interests
 Outside of research, I enjoy staying active through swimming and kickboxing. 
 I'm also passionate about exploring different cuisines and discovering new restaurants.
