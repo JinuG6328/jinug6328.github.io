@@ -4,7 +4,7 @@ categories: [decision making under uncertainty, convex optimization]
 image: "reig.png"
 ---
 
-This project addresses a fundamental challenge in Bayesian Optimal Experimental Design (BOED): the sensitivity of experimental outcomes to misspecified prior distributions. While traditional BOED methods assume accurate prior knowledge, real-world applications often involve uncertain or imperfect initial distributions.
+This project addresses a fundamental challenge in BOED: the sensitivity of experimental outcomes to misspecified prior distributions. While traditional BOED methods assume accurate prior knowledge, real-world applications often involve uncertain or imperfect initial distributions.
 
 To tackle this challenge, we developed Risk-averse Expected Information Gain (REIG), a novel approach that accounts for prior uncertainty while maintaining computational efficiency. Our method leverages convex optimization techniques to:
 - Minimize the risk associated with prior misspecification
