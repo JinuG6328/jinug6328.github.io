@@ -11,7 +11,7 @@ website:
     pinned: true
     align: center
     style: "docked"
-    collapse-level: 1
+    collapse-level: 2
     search: true
     back-to-top-navigation: true
     contents:
