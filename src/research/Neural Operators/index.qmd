@@ -16,7 +16,7 @@ Key features include:<br>
 - Dramatically reduced computational costs while maintaining high accuracy <br>
 
 Our comprehensive analysis and theoretical foundations are detailed in our paper:  
-**[Accurate, scalable, and efficient Bayesian optimal experimental design with derivative-informed neural operators](https://arxiv.org/pdf/2312.14810)**
+**[Accurate, scalable, and efficient Bayesian optimal experimental design with derivative-informed neural operators](https://www.sciencedirect.com/science/article/pii/S0045782525001173?dgcid=author)**
 
 ## LANO (Latent Attention Neural Operator)
 ![LANO architecture overview](lano_1.png)
