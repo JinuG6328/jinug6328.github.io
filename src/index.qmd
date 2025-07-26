@@ -27,7 +27,7 @@ PhD,  May 2018 -- Dec 2024, Computational Science and Engineering, Georgia Insti
 
 MS,  Aug 2016 -- May 2018, Computational Science and Engineering, Georgia Institute of Technology, Atlanta, US <br>
 
-BS,  Mar 2009 -- Aug 2016, Energy Resources Engineering & Computational Science, Seoul National University, Seoul, South Korea
+BS,  Mar 2009 -- Feb 2016, Energy Resources Engineering & Computational Science, Seoul National University, Seoul, South Korea
 
 
 ## Professional Experience
