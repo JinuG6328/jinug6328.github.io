@@ -20,10 +20,10 @@ This project addresses both issues.
 
 ### Two complementary directions
 
-| Direction | Question | Method |
-|---|---|---|
-| Robust EIG | Can the design survive prior misspecification? | Minimax design over an ambiguity set |
-| GoBOED | Does the experiment improve the downstream decision? | Decision-focused design with a differentiable optimization layer |
+| Direction  | Question                                             | Method                                                           |
+| ---------- | ---------------------------------------------------- | ---------------------------------------------------------------- |
+| Robust EIG | Can the design survive prior misspecification?       | Minimax design over an ambiguity set                             |
+| GoBOED     | Does the experiment improve the downstream decision? | Decision-focused design with a differentiable optimization layer |
 
 ### Robustness to Prior Uncertainty
 

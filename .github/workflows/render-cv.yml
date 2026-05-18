@@ -1,15 +1,7 @@
 name: Render a CV
+# Auto-run disabled: _data/cv.yml is still the al-folio template (fails RenderCV validation).
+# Re-enable push trigger after updating cv.yml with your CV, or run manually.
 on:
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - "_data/cv.yml"
-      - "assets/rendercv/design.yaml"
-      - "assets/rendercv/locale.yaml"
-      - "assets/rendercv/settings.yaml"
-  workflow_call:
   workflow_dispatch:
 permissions:
   contents: write

@@ -19,12 +19,12 @@ decision rather than parameter estimation alone.
 Classical BOED is powerful but difficult to apply in modern scientific settings.
 My work targets four practical bottlenecks:
 
-| Bottleneck | My direction |
-|---|---|
-| Expensive simulations | Neural operator surrogates for scalable BOED |
-| Misspecified priors | Robust design under prior uncertainty |
+| Bottleneck                  | My direction                                 |
+| --------------------------- | -------------------------------------------- |
+| Expensive simulations       | Neural operator surrogates for scalable BOED |
+| Misspecified priors         | Robust design under prior uncertainty        |
 | High-dimensional parameters | Diffusion- and flow-based posterior sampling |
-| Downstream decisions | Decision-focused experimental design |
+| Downstream decisions        | Decision-focused experimental design         |
 
 Together, these projects aim to make BOED practical for large-scale inverse
 problems, PDE-governed systems, and scientific decision-making.
