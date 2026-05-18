@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jinug6328.github.io/sitemap.xml
