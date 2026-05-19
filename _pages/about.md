@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Research Scientist · <a href="https://www.bnl.gov/compsci/" target="_blank">Computing and Data Sciences</a>, Brookhaven National Laboratory
+  Research Staff · <a href="https://www.bnl.gov/compsci/" target="_blank">Computing and Data Sciences</a>, Brookhaven National Laboratory
 
 profile:
   align: right
@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Research Scientist in the Computing and Data Sciences Division at
+I am a Research Staff in the Computing and Data Sciences Division at
 [Brookhaven National Laboratory](https://www.bnl.gov/). My research focuses on
 uncertainty-aware scientific discovery using machine learning, spanning Bayesian
 optimal experimental design, generative modeling, and decision-making under
